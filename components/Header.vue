@@ -1,5 +1,5 @@
 <template>
-    <header class="w-full h-24 ">
+    <header class="w-full h-24">
       <div class="container h-full mx-auto flex items-center justify-between">
         <NuxtLink to="/">
           <h1 class="text-gray-800 text-3xl font-bold">rodion gavrilov</h1>
