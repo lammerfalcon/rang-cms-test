@@ -1,0 +1,1 @@
+export { default } from "file:///Users/rodiongavrilov/WebstormProjects/rang-cms-test/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
