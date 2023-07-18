@@ -2,11 +2,10 @@
     <NuxtLink
       :to="'/' + slug"
       v-editable="article"
-      class="w-full h-full border rounded-[5px] text-left overflow-hidden"
+      class="w-full h-full text-left overflow-hidden"
     >
       <img
         :src="article.iamge + '/m/600x0'"
-        :alt="article.iamge.alt"
         class="w-full h-48 xl:h-72 object-cover pointer-events-none bg-stone-800"
       />
       <div class="p-4">
