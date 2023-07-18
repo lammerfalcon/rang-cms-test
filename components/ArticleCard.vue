@@ -7,7 +7,7 @@
       <img
         :src="article.iamge + '/m/600x0'"
         :alt="article.iamge.alt"
-        class="w-full h-48 xl:h-72 object-cover pointer-events-none"
+        class="w-full h-48 xl:h-72 object-cover pointer-events-none bg-stone-800"
       />
       <div class="p-4">
         <h2 class="text-2xl text-[#1d243d] font-bold mb-1">
