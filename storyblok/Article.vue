@@ -4,7 +4,7 @@
         :src="blok.iamge + '/m/1600x0'"
         class="mx-auto w-3/4 object-cover mb-10"
       />
-      <div class="container mx-auto mb-12 columns-2">
+      <div class="container mx-auto mb-12 sm:columns-2 columns-1">
         <h1 class="text-4xl text-gray-800 font-bold mb-4">{{ blok.title }}</h1>
         <h2 class="text-2xl text-gray-500 font-bold mb-4">
           {{ blok.description }}
